@@ -1,0 +1,28 @@
+html, body { font-family: avenir; }
+
+.avatar { border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; }
+
+a:link, a:visited { color: #000; text-decoration: none; }
+
+a { font-weight: bold; }
+
+a:hover { color: #aaa; }
+
+@media (min-width: 600px) { .container { width: 600px; margin: 0 auto; } }
+.center { text-align: center; }
+
+.mb2 { margin-bottom: 20px; }
+
+.mb4 { margin-bottom: 40px; }
+
+.ml0 { margin-left: 2px; }
+
+.mr0 { margin-right: 2px; }
+
+.bold { font-weight: bold; }
+
+.gray { color: #aaa !important; }
+
+.pl3 { padding-left: 30px; }
+
+
